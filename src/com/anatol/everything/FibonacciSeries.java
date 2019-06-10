@@ -10,7 +10,7 @@ public class FibonacciSeries {
             n0 = n1;
             n1 = n2;
             System.out.print(" " + n2);
-            printFibonacci(count);
+            printFibonacci(count - 1);
         }
 
     }
