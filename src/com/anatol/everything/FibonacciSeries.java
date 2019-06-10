@@ -1,5 +1,7 @@
 package com.anatol.everything;
 
+//Fibonacii Series
+
 public class FibonacciSeries {
 
     static int n0 = 0, n1 = 1, n2 = 0;
