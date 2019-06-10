@@ -1,6 +1,6 @@
 package com.anatol.everything;
 
-//Fibonacii Series
+//Fibonacci Series
 
 public class FibonacciSeries {
 
