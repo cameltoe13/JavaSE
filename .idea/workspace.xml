@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6eb0a0e-ffec-4bce-a59a-2cfbbb3bcf50" name="Default Changelist" comment="commi 5">
-      <change afterPath="$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Person.java" afterDir="false" />
+    <list default="true" id="c6eb0a0e-ffec-4bce-a59a-2cfbbb3bcf50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSE/com/anatol/everything/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSE/com/anatol/everything/Recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
+            <state relative-caret-position="500">
               <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -57,6 +65,7 @@
         <option value="$PROJECT_DIR$/src/com/anatol/everything/FibonacciSeries.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Test.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Main.java" />
       </list>
     </option>
   </component>
@@ -133,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.anatol.everything.Exceptions" />
       <module name="JavaSE" />
@@ -160,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.Matrix" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anatol.serialization.and.deserialization.Main" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.anatol.everything.*" />
+          <option name="PATTERN" value="com.anatol.serialization.and.deserialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.Exceptions" />
-        <item itemvalue="Application.Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +234,7 @@
       <workItem from="1559506528637" duration="1648000" />
       <workItem from="1559909350461" duration="5250000" />
       <workItem from="1560117038216" duration="9453000" />
-      <workItem from="1560671593529" duration="2692000" />
+      <workItem from="1560671593529" duration="4673000" />
     </task>
     <task id="LOCAL-00001" summary="alabala">
       <created>1560117652112</created>
@@ -269,11 +278,25 @@
       <option name="project" value="LOCAL" />
       <updated>1560190860229</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit 18.06.2019">
+      <created>1560847908670</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560847908670</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit 18.06.2019">
+      <created>1560854030279</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1560854030279</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26616000" />
+    <option name="totallyTimeSpent" value="28597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -284,16 +307,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008183" side_tool="true" weight="0.2193646" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.20877458" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.20877458" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49924356" weight="0.32405892" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5015129" side_tool="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49848714" visible="true" weight="0.20130932" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49848714" weight="0.20130932" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -350,7 +373,8 @@
     <MESSAGE value="fibanoci 2" />
     <MESSAGE value="commit4" />
     <MESSAGE value="commi 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commi 5" />
+    <MESSAGE value="commit 18.06.2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 18.06.2019" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/XXX.java" />
@@ -408,8 +432,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="500">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
         </state>
       </provider>
     </entry>
