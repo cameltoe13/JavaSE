@@ -23,18 +23,6 @@ public class Serialization {
 
             System.out.println("Objects was serialized");
 
-//            FileInputStream fileInputStream = new FileInputStream(new File("file1.txt"));
-//            ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
-//
-//            Person pr1 = (Person) objectInputStream.readObject();
-//            Person pr2 = (Person) objectInputStream.readObject();
-//
-//            System.out.println(pr1.toString());
-//            System.out.println(pr2.toString());
-//
-//            objectInputStream.close();
-//            fileInputStream.close();
-
         } catch (IOException e){
             System.out.println("Error in initializing stream");
         }
