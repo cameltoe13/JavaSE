@@ -17,9 +17,9 @@ public class Main {
         books2[1] = new Book("Learn SQL", 399, 75.02);
         books2[2] = new Book("Sherlock Holmes", 425, 31.99);
 
-        Book[] both = (Book[]) Stream.concat( Stream.of(books1), Stream.of(books2) ).toArray(b -> new Book[b]);
-        for (Book b : both)
-            System.out.println(b.getName() + ", " + b.getPages() + ", " + b.getPrice());
+        Book[] both = Stream.concat( Stream.of(books1), Stream.of(books2) ).toArray(b -> new Book[b]);
+        for (Book c : both)
+            System.out.println(c.getName() + ", " + c.getPages() + ", " + c.getPrice());
 
     }
 }
