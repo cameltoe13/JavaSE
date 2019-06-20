@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6eb0a0e-ffec-4bce-a59a-2cfbbb3bcf50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/anatol/everything/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/anatol/stream/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/anatol/stream/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anatol/stream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/stream/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +40,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/anatol/stream/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="120">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/IntFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -291,7 +298,7 @@
       <workItem from="1559506528637" duration="1648000" />
       <workItem from="1559909350461" duration="5250000" />
       <workItem from="1560117038216" duration="9453000" />
-      <workItem from="1560671593529" duration="14258000" />
+      <workItem from="1560671593529" duration="16349000" />
     </task>
     <task id="LOCAL-00001" summary="alabala">
       <created>1560117652112</created>
@@ -391,21 +398,36 @@
       <option name="project" value="LOCAL" />
       <updated>1560856810409</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="stream commit">
+      <created>1561014131042</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561014131042</updated>
+    </task>
+    <task id="LOCAL-00016" summary="stream commit 1">
+      <created>1561031902190</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1561031902190</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38182000" />
+    <option name="totallyTimeSpent" value="40273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008183" side_tool="true" weight="0.2193646" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.20877458" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.20877458" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49924356" weight="0.32405892" />
@@ -414,7 +436,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50226927" side_tool="true" weight="0.1816694" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4977307" visible="true" weight="0.14075287" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.4977307" visible="true" weight="0.3502455" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -477,7 +499,9 @@
     <MESSAGE value="change" />
     <MESSAGE value="change2" />
     <MESSAGE value=" text file change" />
-    <option name="LAST_COMMIT_MESSAGE" value=" text file change" />
+    <MESSAGE value="stream commit" />
+    <MESSAGE value="stream commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="stream commit 1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/XXX.java" />
@@ -575,9 +599,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/IntFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/stream/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="120">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
