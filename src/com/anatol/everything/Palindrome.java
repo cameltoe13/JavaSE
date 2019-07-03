@@ -6,21 +6,21 @@ class Palindrome
 {
    public static void main(String args[])
    {
-      String original, reverse = ""; // Objects of String class
-      Scanner in = new Scanner(System.in);
-     
-      System.out.println("Enter a string to check if it is a palindrome");
-      original = in.nextLine();
-     
-      int length = original.length();
-     
-      for (int i = length - 1; i >= 0; i--)
-         reverse = reverse + original.charAt(i);
-         
-      if (original.equals(reverse))
-         System.out.println("The string is a palindrome.");
+      Scanner scanner = new Scanner(System.in);
+      String myString, reverseString = "";
+
+      System.out.println("Enter a string: ");
+      myString = scanner.nextLine();
+
+      int length = myString.length();
+
+      for (int i = length - 1; i >=0; i-- )
+         reverseString = reverseString + myString.charAt(i);
+
+      if (reverseString.equals(myString))
+         System.out.println("The string is a palindrome");
       else
-         System.out.println("The string isn't a palindrome.");
+         System.out.println("The string is not a palindrome");
          
    }
 }      
