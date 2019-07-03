@@ -1,3 +1,5 @@
+package com.anatol.everything;
+
 import java.util.*;
  
 class Palindrome

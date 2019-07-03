@@ -1,5 +1,8 @@
 // JAVA Code for Find difference between sums 
-// of two diagonals 
+// of two diagonals
+
+package com.anatol.everything;
+
 public class Matrix {
       
     public static int difference(int arr[][], int n) 
