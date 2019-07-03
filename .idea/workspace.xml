@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c6eb0a0e-ffec-4bce-a59a-2cfbbb3bcf50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/BubbleSortExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/GFG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/everything/Matrix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,19 +24,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java">
+        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="160">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -59,7 +53,6 @@
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Demo.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Intefaces.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Exceptions.java" />
-        <option value="$PROJECT_DIR$/src/com/anatol/everything/Matrix.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/FibanociNumber.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Recursion.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/FibonacciSeries.java" />
@@ -72,7 +65,10 @@
         <option value="$PROJECT_DIR$/src/com/anatol/stream/Main.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Person.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/BubbleSortExample.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/GFG.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/Matrix.java" />
       </list>
     </option>
   </component>
@@ -177,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.GFG">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.anatol.everything.BinarySearch" />
       <module name="JavaSE" />
@@ -204,15 +200,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.FibonacciSeries" />
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG" />
       <module name="JavaSE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.anatol.serialization.and.deserialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -245,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GFG" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.DeSerialization" />
         <item itemvalue="Application.Serialization" />
-        <item itemvalue="Application.FibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +262,7 @@
       <workItem from="1560671593529" duration="26181000" />
       <workItem from="1561797258330" duration="14000" />
       <workItem from="1562063714885" duration="801000" />
-      <workItem from="1562163244574" duration="3106000" />
+      <workItem from="1562163244574" duration="3846000" />
     </task>
     <task id="LOCAL-00001" summary="alabala">
       <created>1560117652112</created>
@@ -407,14 +397,28 @@
       <option name="project" value="LOCAL" />
       <updated>1561478331755</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="binary search">
+      <created>1562176693710</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1562176693710</updated>
+    </task>
+    <task id="LOCAL-00021" summary="binary search1">
+      <created>1562176874913</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1562176874913</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54026000" />
+    <option name="totallyTimeSpent" value="54766000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -422,16 +426,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008183" side_tool="true" weight="0.2193646" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.21482602" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.21482602" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" weight="0.3289689" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49924356" weight="0.32405892" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" weight="0.328594" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49924356" weight="0.32385466" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50226927" side_tool="true" weight="0.35545024" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.4977307" visible="true" weight="0.35545024" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4977307" visible="true" weight="0.35545024" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -498,7 +502,8 @@
     <MESSAGE value="stream commit 1" />
     <MESSAGE value="person change" />
     <MESSAGE value="binary search" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary search" />
+    <MESSAGE value="binary search1" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary search1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/XXX.java" />
@@ -603,10 +608,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BubbleSortExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="180">
+          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
