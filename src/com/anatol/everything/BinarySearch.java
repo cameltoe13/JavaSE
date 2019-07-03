@@ -21,7 +21,7 @@ public class BinarySearch {
 
     public static void main(String[] args) {
 
-        int[] arr1 = {0, -5, 2, 45, 234, 567, 876, 900, 976, 999};
+        int[] arr1 = {0, -5, 2, 45, 234, 567, 876, 900, 976, 999, 1};
 
         int index = recursiveBinarySearch(arr1,0,arr1.length,0);
         System.out.println("Found 0 at "+index+" index");
@@ -32,7 +32,7 @@ public class BinarySearch {
         index = recursiveBinarySearch(arr1, 0,arr1.length,999);
         System.out.println("Found 999 at "+index+" index");
 
-        index = recursiveBinarySearch(arr1,0,arr1.length,876);
+        index = recursiveBinarySearch(arr1,0,arr1.length,567);
         System.out.println("Found 876 at "+index+" index");
     }
 }
