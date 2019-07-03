@@ -3,9 +3,10 @@ package com.anatol.everything;
 
 public class BinarySearch {
 
-	public static int binarySearch(int[] arr, int start, int end, int key) {
+	public static int binarySearch(
+			int[] arr, int start, int end, int key) {
 	
-		if(start < end) {
+		if(start <= end) {
 			int middle = (start + end) / 2;
 			
 			if(key < arr[middle]){
