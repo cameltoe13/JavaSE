@@ -42,7 +42,7 @@ public class StudentComparator {
         @Override
         public int compare(StudentComparator s1, StudentComparator s2) {
             String name1 = s1.getName().toUpperCase();
-            String name2 = s1.getName().toUpperCase();
+            String name2 = s2.getName().toUpperCase();
             return name1.compareTo(name2) ;
         }
     };
