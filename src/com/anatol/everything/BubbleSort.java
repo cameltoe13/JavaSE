@@ -24,6 +24,7 @@ public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = {54, 7, 60, 3, 4, 18 ,21, 2};
         bubbleSort(arr, arr.length);
+
         System.out.println(Arrays.toString(arr));
 
 

@@ -27,14 +27,14 @@ public class BinarySearch {
 
 	public static void main(String args[]) {
 
-		int[] array = {1,2,3,4,5,6,7,8,9,10};
+		int[] array = {1,2,3,4,5,6,7,8,9,10, -8};
 		int index = binarySearch(array, 0, array.length, 9);
 		System.out.println("Found 9 at " + index  + " index.");
 
 		index = binarySearch(array, 0, array.length, 5);
 		System.out.println("Found 5 at " + index  + " index.");
 
-		index = binarySearch(array, 0, array.length, 1);
+		index = binarySearch(array, 0, array.length, -8);
 		System.out.println("Found 1 at " + index  + " index.");
 	}
 

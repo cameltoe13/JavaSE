@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6eb0a0e-ffec-4bce-a59a-2cfbbb3bcf50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/anatol/everything/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/anatol/everything/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anatol/everything/BinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/everything/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,20 +23,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="100">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/SelectionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/ssfs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="80">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/cffb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/anatol/arraylist/SortingComparable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,14 +91,11 @@
         <option value="$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/DeSerialization.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Serialization.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Stream.java" />
-        <option value="$PROJECT_DIR$/src/com/anatol/stream/Book.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/stream/Main.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Person.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/BubbleSortExample.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/GFG.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Matrix.java" />
-        <option value="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/ArrayListCollectionSort.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/arraylist/SortingComparatorComparable.java" />
@@ -86,7 +106,14 @@
         <option value="$PROJECT_DIR$/src/com/anatol/arraylist/SortingComparable.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/SeletionSort.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/stream/Book.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/Test1.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/Mea.java" />
       </list>
     </option>
   </component>
@@ -101,6 +128,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+              <item name="com.anatol" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+              <item name="com.anatol" type="1f31426a:PackageElementNode" />
+              <item name="everything" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+              <item name="com.anatol" type="1f31426a:PackageElementNode" />
+              <item name="serialization.and.deserialization" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+              <item name="com.anatol" type="1f31426a:PackageElementNode" />
+              <item name="stream" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,47 +199,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-              <item name="com.anatol" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-              <item name="com.anatol" type="1f31426a:PackageElementNode" />
-              <item name="arraylist" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-              <item name="com.anatol" type="1f31426a:PackageElementNode" />
-              <item name="everything" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-              <item name="com.anatol" type="1f31426a:PackageElementNode" />
-              <item name="serialization.and.deserialization" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-              <item name="com.anatol" type="1f31426a:PackageElementNode" />
-              <item name="stream" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,10 +213,17 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="template.copyright.formatting" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Matrix" />
+      <command value="Test" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -210,8 +238,8 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Test">
-    <configuration name="ArrayListCollectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.ArrayListCollectionSort" />
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.BinaryTree" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
@@ -223,8 +251,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.SelectionSort" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.BubbleSort" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
@@ -236,12 +264,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.arraylist.SortingComparable" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anatol.stream.Main" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.anatol.arraylist.*" />
+          <option name="PATTERN" value="com.anatol.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.arraylist.SortingComparator" />
+    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.Matrix" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.anatol.arraylist.*" />
+          <option name="PATTERN" value="com.anatol.everything.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,10 +306,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.SortingComparable" />
-        <item itemvalue="Application.SortingComparator" />
-        <item itemvalue="Application.ArrayListCollectionSort" />
+        <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.BinaryTree" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +332,8 @@
       <workItem from="1560671593529" duration="26181000" />
       <workItem from="1561797258330" duration="14000" />
       <workItem from="1562063714885" duration="801000" />
-      <workItem from="1562163244574" duration="23762000" />
+      <workItem from="1562163244574" duration="53371000" />
+      <workItem from="1563109662902" duration="4401000" />
     </task>
     <task id="LOCAL-00001" summary="alabala">
       <created>1560117652112</created>
@@ -495,11 +524,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562201478453</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Selection sort">
+      <created>1562532872781</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1562532872781</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74682000" />
+    <option name="totallyTimeSpent" value="108692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -510,7 +546,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008183" side_tool="true" weight="0.2193646" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.20574887" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.20877458" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" weight="0.328594" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49924356" weight="0.32543445" />
@@ -519,8 +555,8 @@
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5030257" side_tool="true" weight="0.35545024" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.4969743" visible="true" weight="0.2890995" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4969743" visible="true" weight="0.34123224" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39968404" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -535,37 +571,6 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.5008183" side_tool="true" weight="0.2193646" />
-      <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.20574887" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" weight="0.328594" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49924356" weight="0.32543445" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5030257" side_tool="true" weight="0.35545024" />
-      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4969743" visible="true" weight="0.35545024" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -595,6 +600,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="alabala" />
@@ -618,7 +637,8 @@
     <MESSAGE value="bubble sort" />
     <MESSAGE value="palindrome" />
     <MESSAGE value="sorting arraylist" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorting arraylist" />
+    <MESSAGE value="Selection sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selection sort" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/XXX.java" />
@@ -631,31 +651,10 @@
     <entry file="file://$PROJECT_DIR$/file1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/function/IntFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/stream/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/stream/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -688,23 +687,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BubbleSortExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#1088#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BubbleSortExample.java" />
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Exceptions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -716,34 +699,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="62" lean-forward="true" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -765,81 +720,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/arraylist/StudentComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="342">
+          <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/arraylist/SortingComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/arraylist/StudentComparable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="-311">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
             <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
             <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/arraylist/SortingComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/arraylist/StudentComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="229">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/stream/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/stream/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/arraylist/SortingComparable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="409">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="140">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Mea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Test.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/ssfs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/cffb.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
