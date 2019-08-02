@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6eb0a0e-ffec-4bce-a59a-2cfbbb3bcf50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/anatol/everything/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anatol/everything/AListVSLList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anatol/everything/GenerateRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anatol/everything/GetElementRandomFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/anatol/everything/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/anatol/everything/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/anatol/everything/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,39 +23,12 @@
     <favorites_list name="JavaSE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/ssfs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/cffb.java">
+        <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/GetElementRandomFromArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/anatol/arraylist/SortingComparable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="186">
+              <caret line="28" column="52" lean-forward="true" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -111,9 +85,13 @@
         <option value="$PROJECT_DIR$/src/com/anatol/stream/Book.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Node.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/anatol/everything/Test.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Test1.java" />
         <option value="$PROJECT_DIR$/src/com/anatol/everything/Mea.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/AListVSLList.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/GenerateRandomNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/anatol/everything/GetElementRandomFromArray.java" />
       </list>
     </option>
   </component>
@@ -128,41 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-              <item name="com.anatol" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-              <item name="com.anatol" type="1f31426a:PackageElementNode" />
-              <item name="everything" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-              <item name="com.anatol" type="1f31426a:PackageElementNode" />
-              <item name="serialization.and.deserialization" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
-              <item name="com.anatol" type="1f31426a:PackageElementNode" />
-              <item name="stream" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +142,35 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+              <item name="com.anatol" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+              <item name="com.anatol" type="1f31426a:PackageElementNode" />
+              <item name="everything" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="JavaSE" type="58d84e3e:PackageViewProjectNode" />
+              <item name="JavaSE" type="616d4139:PackageViewModuleNode" />
+              <item name="com.anatol" type="1f31426a:PackageElementNode" />
+              <item name="serialization.and.deserialization" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +179,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559242333553" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../postgres-demo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -217,12 +189,14 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="template.copyright.formatting" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="Matrix" />
       <command value="Test" />
+      <command value="QuickSort" />
+      <command value="AListVSLList" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -237,9 +211,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.BinaryTree" />
+  <component name="RunManager" selected="Application.GetElementRandomFromArray">
+    <configuration name="AListVSLList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.AListVSLList" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
@@ -251,8 +225,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.BubbleSort" />
+    <configuration name="GenerateRandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.GenerateRandomNumber" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
@@ -264,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.stream.Main" />
+    <configuration name="GetElementRandomFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.GetElementRandomFromArray" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.anatol.stream.*" />
+          <option name="PATTERN" value="com.anatol.everything.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,8 +251,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.Matrix" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.anatol.everything.QuickSort" />
       <module name="JavaSE" />
       <extension name="coverage">
         <pattern>
@@ -305,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetElementRandomFromArray" />
+        <item itemvalue="Application.GenerateRandomNumber" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Matrix" />
-        <item itemvalue="Application.BinaryTree" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.AListVSLList" />
+        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +307,12 @@
       <workItem from="1561797258330" duration="14000" />
       <workItem from="1562063714885" duration="801000" />
       <workItem from="1562163244574" duration="53371000" />
-      <workItem from="1563109662902" duration="4401000" />
+      <workItem from="1563109662902" duration="14967000" />
+      <workItem from="1563298141887" duration="8036000" />
+      <workItem from="1563433986571" duration="4029000" />
+      <workItem from="1563555131987" duration="8694000" />
+      <workItem from="1564651593837" duration="762000" />
+      <workItem from="1564752392953" duration="2608000" />
     </task>
     <task id="LOCAL-00001" summary="alabala">
       <created>1560117652112</created>
@@ -531,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1562532872781</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Others commits">
+      <created>1563125223185</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1563125223185</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108692000" />
+    <option name="totallyTimeSpent" value="143387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -546,8 +532,8 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5008183" side_tool="true" weight="0.2193646" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49918166" visible="true" weight="0.20877458" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49763033" visible="true" weight="0.21482602" />
+      <window_info id="Structure" order="6" sideWeight="0.50236964" side_tool="true" weight="0.20877458" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49924356" weight="0.328594" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49924356" weight="0.32543445" />
       <window_info anchor="bottom" id="Terminal" order="2" />
@@ -555,7 +541,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5030257" side_tool="true" weight="0.35545024" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4969743" visible="true" weight="0.34123224" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.4969743" visible="true" weight="0.2827804" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39968404" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -638,7 +624,8 @@
     <MESSAGE value="palindrome" />
     <MESSAGE value="sorting arraylist" />
     <MESSAGE value="Selection sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selection sort" />
+    <MESSAGE value="Others commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Others commits" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/XXX.java" />
@@ -671,18 +658,6 @@
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -727,31 +702,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -792,13 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/stream/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/stream/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -807,13 +754,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Node.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Mea.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/cffb.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/ssfs.java" />
     <entry file="file://$PROJECT_DIR$/src/com/anatol/arraylist/SortingComparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
@@ -824,38 +768,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="352">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Mea.java">
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="180">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-780">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/AListVSLList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/stream/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="280">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/ssfs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/cffb.java">
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/GenerateRandomNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/serialization/and/deserialization/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/anatol/everything/GetElementRandomFromArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="28" column="52" lean-forward="true" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -865,6 +862,17 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,22 +1,18 @@
 package com.anatol.everything;
 
+/**
+ * @author : Anatol
+ * @since : 20.07.2019, S
+ **/
+
 /*Crl + Alt +O
 delete unused imports*/
 
-import java.util.Arrays;
-
 public class Test {
-
     public static void main(String[] args) {
 
-        Integer[] list = new Integer[] {3, 7, 1, 2, 0, 9};
-
-        Arrays.sort(list);
-
-        for(int i : list){
+        for (int i = 0; i <= i + 10; i++){
             System.out.println(i);
         }
-
     }
-
 }
